@@ -1,0 +1,13 @@
+HOSPITAL_COD,SALA_COD,EMPLEADO_NO,APELLIDO,FUNCION,TURNO,SALARIO
+13,6,3754,DiazB.,Enfermera,T,2262000
+13,6,3106,HernandezJ.,Enfermero,T,2755000
+18,4,6357,KarplusW.,Interno,T,3379000
+22,6,1009,HiguerasD.,Enfermera,T,2005000
+22,6,8422,BocinaG.,Enfermero,M,1638000
+22,2,9901,NuÑezC.,Interno,M,2210000
+22,1,6065,RiveraG.,Enfermera,N,1626000
+22,1,7379,CarlosR.,Enfermera,T,2119000
+45,4,1280,AmigoR.,Interno,N,2210000
+45,1,8526,FrankH.,Enfermera,T,2522000
+22,2,1234,GarciaJ.,Enfermo,M,3000000
+2,22,2222,GarciaJ,,,

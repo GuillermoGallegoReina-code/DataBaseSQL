@@ -1,0 +1,11 @@
+HOSPITAL_COD,SALA_COD,NOMBRE,NUM_CAMA
+13,3,Cuidados Intensivos,21
+13,6,Psiquiátrico,67
+18,3,Cuidados Intensivos,10
+18,4,Cardiología,53
+22,1,Recuperación,10
+22,6,Psiquiátrico,118
+22,2,Maternidad,34
+45,4,cardiología,55
+45,1,Recuperación,13
+45,2,Maternidad,24
